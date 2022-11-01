@@ -47,3 +47,37 @@ Psuedocode not standardized, leads into algorithm
 
 Designed during monolithic programming
 
+Before you write program, write flow chart to understand the program.
+
+Three components of FlowChart:
+
+- Input
+- Process
+- Output
+
+### FlowChart for adding two numbers
+
+`(Start) --> [Print "Enter 2 Numbers; Read a,b] --> |c <-- a+b| --> [print "sum is ", c] --> (Stop)`
+
+### FlowChart for finxing greater number
+
+`(Start) --> [Print "Enter 2 Numbers; Read a,b] --> <If a > b> --> ^True --> |Print a| ^False --> |Print b| --> (Stop)`
+
+## Stops for Program Development and Execution
+
+1. Editing
+2. Compiling
+3. Linking Library
+4. Loading
+5. Execution
+
+IDE
+
+- Turbo C++
+- Devcpp
+- Xcode
+- CodeBlocks
+- Eclipse
+- Visual Studio
+
+
