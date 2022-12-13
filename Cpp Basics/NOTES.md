@@ -28,3 +28,51 @@ Components to a program:
 - Input
 - Process
 - Output
+
+## Why Data Types
+
+Data
+|_______________
+|               |
+Numeric        Character/Alphabetic
+
+
+Numeric:
+- Decimal
+- Floating
+
+Character/Alphabetic:
+- String
+
+## Primitive Data Types
+
+Data Types:
+- Primitive
+    - Inegral
+        - Int
+        - Char
+    - bool
+    - floating point
+        - float
+        - double
+
+User Defined:
+- enum
+- structure
+- union
+- class
+
+Derived:
+- Array
+- Pointer
+- Reference
+
+### 16 Bit Object
+
+| MSB | | | | | | | | | | | | | | | LSB |
+| Sign | | | Byte 2 | | | | | | | | | Byte 1 | | | LSB |
+
+Sign:
+- 0 `+`
+- 1 `-`
+
